@@ -1,5 +1,5 @@
 def main():
-  #print('You rolled a die')
+        print("我掷了一个骰子")
 
-if __name__== "__main__":
-  main()
+if __name__ == "__main__":
+        main()
